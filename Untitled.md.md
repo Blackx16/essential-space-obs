@@ -1,6 +1,4 @@
-ops
-kl
-
+aaaaaaaaaaaaaaaaaaaa
 sync ho gya bc 😭
  i thought it had something to do with sync but once first vault got synced it is working fine i don't know how it worked 
  
