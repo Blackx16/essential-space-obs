@@ -8,7 +8,7 @@ tags:
 ---
 ### 1. Introduction
 1. **Purpose**:
-		
+		The purpose of this Software Requirements Specification (SRS) is to provide a detailed description of the requirements for the Essential Moments application. This document outlines the functional and non-functional requirements for the app, serving as the foundational agreement between stakeholders and the development team to guide the design, development, and testing of the system.
 		
 2. **Scope**:
 		This system is an intelligent mobile companion designed to capture, organize, and make actionable the fleeting ideas and information users save via screenshots. It will automate the process of screenshot capture, enrich it with notes and voice memos, and use on-device and cloud-based AI to extract meaningful data. The goal is to replace the disorganized, default phone gallery with a smart, private, and actionable "second brain".
