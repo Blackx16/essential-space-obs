@@ -2,7 +2,7 @@ aaaaaaaaaaaaaaaaaaaa
 
  finallyy sync ho gya bc?? 😭
  
- ==**`sync mathakoot counter = 6`**==
+ ==**`sync mathakoot counter = 7`**==
  
  I thought it had something to do with sync but once first vault got synced it is working fine I don't know how it worked 
  
