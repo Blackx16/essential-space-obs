@@ -11,10 +11,14 @@
             "id": "745856de885a1440",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Project Presentation Essential Moments.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Project Presentation Essential Moments"
             }
           }
         ]
@@ -173,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51a2918cffb20307",
+  "active": "745856de885a1440",
   "lastOpenFiles": [
     "Untitled.base",
     "Tf does this extension work.md",
