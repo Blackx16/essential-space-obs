@@ -6,7 +6,8 @@ aaaaaaaaaaaaaaaaaaaa
  
  I thought it had something to do with sync but once first vault got synced it is working fine I don't know how it worked 
  
- my stupid aah thought that you had to sync twice without making changes and then make a change , but this extension has a mind of its own
+ my stupid aah thought that you had to sync twice without making changes and then make a change , but this extension has a mind of its own.
+Maybe this works for you so do try syncing twice and then making changes.
 
 ## Some Guidelines:
 
