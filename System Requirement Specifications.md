@@ -110,3 +110,86 @@ tags:
 		
 - **Use Case:** ***Reviewing and Organizing Ideas***
 	- **Description:** The User opens the Essential Space to review their week's Moments. They find a screenshot of a book recommendation. The voice memo they left has been transcribed. They add a text note "Buy this for Sarah's birthday" and use the annotation tool to circle the author's name on the image.
+
+### 5. Use Case Diagram (Textual Representation)
+
+This section defines the primary interactions between the actors (User and System) and the Essential Moments application.
+#### 5.1 Actors
+
+- **User:** The primary actor who interacts with the application to capture, manage, and organize their Moments.
+    
+- **System:** A secondary actor representing the automated processes within the application, such as AI analysis and notifications.
+    
+
+#### 5.2 User Use Cases
+
+**Use Case 1: Capture Screenshot**
+
+- **Actor:** User
+    
+- **Description:** The User takes a screenshot on their Android device using the native hardware buttons. The System detects this action and presents a tappable overlay, allowing the User to immediately save the screenshot as a new Moment, thereby initiating the capture workflow.
+    
+
+**Use Case 2: Set a Reminder from a Screenshot**
+
+- **Actor:** User
+    
+- **Description:** After capturing a Moment, the User reviews the text extracted by the System's OCR. If the text contains actionable information (e.g., "Meeting Tuesday at 5pm"), the System suggests creating a reminder. The User can then confirm, edit the details (date, time, notification), and save it, which integrates with the device's native calendar/clock.
+    
+
+**Use Case 3: View Screenshot Gallery**
+
+- **Actor:** User
+    
+- **Description:** The User opens the application to the "Essential Space". This use case involves the User browsing through all their saved Moments, which are displayed in a grid or list format. The User can scroll, view thumbnails, and select a specific Moment to see its details.
+    
+
+**Use Case 4: Create/Edit Note Canvas**
+
+- **Actor:** User
+    
+- **Description:** The User selects a Moment to open its detailed view. They can then add a new text note, edit an existing one, or use the annotation tools to draw, highlight, or write directly on the screenshot image itself. All changes are saved locally to that Moment.
+    
+
+**Use Case 5: Record Voice Note**
+
+- **Actor:** User
+    
+- **Description:** When creating or editing a Moment, the User taps the microphone icon. They can then record an audio memo containing their thoughts or context related to the screenshot. Upon saving, the voice note is attached to the Moment, and the System automatically begins transcribing it to text.
+    
+
+**Use Case 6: Perform Visual Search**
+
+- **Actor:** User
+    
+- **Description:** The User wants to find a specific Moment but can't remember the exact text. They initiate a visual search by providing an image or a descriptive prompt (e.g., "blue chart with numbers"). The System uses AI to analyze the content of all saved screenshots and returns the most relevant matches.
+    
+
+**Use Case 7: Manual Sort/Organize Gallery**
+
+- **Actor:** User
+    
+- **Description:** The User is in the "Essential Space" and wants to organize their Moments. They can manually reorder items via drag-and-drop, create custom folders or tags (e.g., "Work," "Inspiration"), and assign multiple Moments to these categories for better organization.
+    
+
+### 5.3 System Use Cases
+
+**Use Case 8: Text Recognition (OCR)**
+
+- **Actor:** System
+    
+- **Description:** This process is triggered automatically whenever a new Moment is saved. The System performs Optical Character Recognition on the screenshot image to identify and extract any printed or handwritten text. The extracted text is then saved as searchable metadata within the Moment.
+    
+
+**Use Case 9: Auto-Sort Gallery**
+
+- **Actor:** System
+    
+- **Description:** Based on the metadata extracted from Moments (via OCR, voice transcription, and image analysis), the System can automatically suggest or apply organizational tags. For example, it might group all screenshots from a specific app, identify receipts, or categorize Moments containing charts and graphs.
+    
+
+**Use Case 10: Notifications**
+
+- **Actor:** System
+    
+- **Description:** The System is responsible for generating and delivering notifications to the User. This is triggered when a previously set reminder is due. The notification will display the reminder text and provide a direct link to the associated Moment within the app.
