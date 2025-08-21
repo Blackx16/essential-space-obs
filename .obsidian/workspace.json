@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review 1 Presentation Flow.md",
+                "file": "Project Presentation Essential Moments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Review 1 Presentation Flow"
-            }
-          },
-          {
-            "id": "316e10d63a52232e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Project Presentation Essential Moments"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,11 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51a2918cffb20307",
+  "active": "75fa882601e632dd",
   "lastOpenFiles": [
+    "Review 1 Presentation Flow.md",
     "conflict-files-obsidian-git.md",
     "Project Presentation Essential Moments.md",
-    "Review 1 Presentation Flow.md",
     "System Requirement Specifications.md",
     "thumbnail (10).webp",
     "Tf does this extension work.md",
