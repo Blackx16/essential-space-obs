@@ -11,12 +11,14 @@
             "id": "2e46badae356f27c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "imigiz/thumbnail (9).webp"
+                "file": "Review 1 Presentation Flow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "thumbnail (9)"
+              "icon": "lucide-file",
+              "title": "Review 1 Presentation Flow"
             }
           }
         ]
@@ -178,8 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e293095ec44077c7",
+  "active": "2e46badae356f27c",
   "lastOpenFiles": [
+    "System Requirement Specifications.md",
+    "Tf does this extension work.md",
+    "imigiz/thumbnail (9).webp",
     "imigiz/Screenshot 2025-08-21 122823.png",
     "imigiz/Screenshot 2025-08-21 123540.png",
     "imigiz",
@@ -189,10 +194,7 @@
     "imigiz/Screenshot 2025-08-21 123715.png",
     "imigiz/Screenshot 2025-08-21 123831.png",
     "imigiz/Screenshot 2025-08-21 123958.png",
-    "imigiz/thumbnail (9).webp",
     "conflict-files-obsidian-git.md",
-    "Tf does this extension work.md",
-    "System Requirement Specifications.md",
     "Review 1 Presentation Flow.md",
     "essential-space-obs/Tf does this extension work.md",
     "essential-space-obs/System Requirement Specifications.md",
