@@ -11,14 +11,12 @@
             "id": "2e46badae356f27c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Project Presentation Essential Moments.md",
-                "mode": "source",
-                "source": false
+                "file": "Screenshot 2025-08-21 122823.png"
               },
-              "icon": "lucide-file",
-              "title": "Project Presentation Essential Moments"
+              "icon": "lucide-image",
+              "title": "Screenshot 2025-08-21 122823"
             }
           }
         ]
@@ -182,6 +180,7 @@
   },
   "active": "2e46badae356f27c",
   "lastOpenFiles": [
+    "Project Presentation Essential Moments.md",
     "thumbnail (10).webp",
     "Screenshot 2025-08-21 122823.png",
     "Screenshot 2025-08-21 123540.png",
@@ -189,7 +188,6 @@
     "Screenshot 2025-08-21 123831.png",
     "Screenshot 2025-08-21 123958.png",
     "thumbnail (9).webp",
-    "Project Presentation Essential Moments.md",
     "conflict-files-obsidian-git.md",
     "Tf does this extension work.md",
     "System Requirement Specifications.md",
