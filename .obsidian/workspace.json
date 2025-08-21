@@ -11,12 +11,14 @@
             "id": "94c916f9635459ce",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "thumbnail (10).webp"
+                "file": "Project Presentation Essential Moments.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "thumbnail (10)"
+              "icon": "lucide-file",
+              "title": "Project Presentation Essential Moments"
             }
           }
         ]
@@ -180,8 +182,8 @@
   },
   "active": "94c916f9635459ce",
   "lastOpenFiles": [
-    "Tf does this extension work.md",
     "thumbnail (10).webp",
+    "Tf does this extension work.md",
     "System Requirement Specifications.md",
     "Review 1 Presentation Flow.md",
     "Project Presentation Essential Moments.md",
