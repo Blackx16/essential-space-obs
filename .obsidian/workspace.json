@@ -11,12 +11,14 @@
             "id": "2e46badae356f27c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "imigiz/essential space 6.png"
+                "file": "Review.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "essential space 6"
+              "icon": "lucide-file",
+              "title": "Review"
             }
           }
         ]
@@ -178,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e293095ec44077c7",
+  "active": "2e46badae356f27c",
   "lastOpenFiles": [
-    "imigiz/essential space 6.png",
     "imigiz/thumbnail (9).webp",
+    "imigiz/essential space 6.png",
     "imigiz/essential space 0.png",
     "imigiz/essential space 2.png",
     "imigiz/essential space 3.png",
