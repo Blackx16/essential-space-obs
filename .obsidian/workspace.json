@@ -11,14 +11,12 @@
             "id": "94c916f9635459ce",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "image",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "thumbnail (10).webp"
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-image",
+              "title": "thumbnail (10)"
             }
           }
         ]
@@ -182,9 +180,9 @@
   },
   "active": "94c916f9635459ce",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Project Presentation Essential Moments.md",
     "thumbnail (10).webp",
+    "conflict-files-obsidian-git.md",
     "Review 1 Presentation Flow.md",
     "System Requirement Specifications.md",
     "essential-space-obs/Tf does this extension work.md",
