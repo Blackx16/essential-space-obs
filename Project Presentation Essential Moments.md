@@ -2,14 +2,11 @@ Google Slide Link: https://docs.google.com/presentation/d/1dATYm1yrSfuOOhjsbY7Nc
 
 Google Docs Link: https://docs.google.com/document/d/186VdFKMxajLKKUQmc3-wJ307_sumhSK6hDMzF9q1pbk/edit?usp=sharing
 
+
 ### 1. Problem Statement
+The Problem: Screenshots are Broken
 
-In today's fast-paced digital world, mobile users rely heavily on screenshots to capture fleeting information—be it a meeting schedule, a purchase receipt, a recipe, or a spark of inspiration. However, this process is fundamentally broken:
-
-* **Information Silos:** Screenshots are dumped into a chaotic, unorganized default photo gallery, mixed with personal photos.
-* **Loss of Context:** The original thought or reason for capturing the screenshot is instantly lost. A picture of a flight itinerary is just an image without the context of "Book this for the family trip."
-* **Inactionable Data:** The valuable text and data within these images remain locked and unsearchable. Finding a specific screenshot from months ago is a frustrating manual effort.
-* **Privacy Concerns:** Existing solutions often rely on cloud uploads, creating privacy risks for sensitive information captured in screenshots.
+We all use screenshots to save important information, but this creates a major problem. Our phone galleries become a disorganized mess of images mixed with personal photos. The crucial context is lost the moment we take the shot, and the valuable information inside remains unsearchable and locked away. Finding anything is a nightmare, and cloud-based solutions raise serious privacy concerns.**
 
 **Essential Moments** addresses the critical gap between capturing information and making it truly useful, organized, and actionable, all while respecting user privacy.
 
