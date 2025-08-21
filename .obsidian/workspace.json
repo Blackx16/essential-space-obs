@@ -11,14 +11,12 @@
             "id": "94c916f9635459ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Tf does this extension work.md",
-                "mode": "source",
-                "source": false
+                "file": "thumbnail (10).webp"
               },
-              "icon": "lucide-file",
-              "title": "Tf does this extension work"
+              "icon": "lucide-image",
+              "title": "thumbnail (10)"
             }
           }
         ]
@@ -180,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e293095ec44077c7",
+  "active": "94c916f9635459ce",
   "lastOpenFiles": [
-    "thumbnail (10).webp",
     "Tf does this extension work.md",
+    "thumbnail (10).webp",
     "System Requirement Specifications.md",
     "Review 1 Presentation Flow.md",
     "Project Presentation Essential Moments.md",
