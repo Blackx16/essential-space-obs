@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "78058793350b09b3",
+        "id": "f8fcfefcf3c16445",
         "type": "tabs",
         "children": [
           {
-            "id": "745856de885a1440",
+            "id": "acad4a9cb2fe41a6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Project Presentation Essential Moments.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Project Presentation Essential Moments"
             }
           }
         ]
@@ -177,12 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "745856de885a1440",
+  "active": "acad4a9cb2fe41a6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Project Presentation Essential Moments.md",
     "Review 1 Presentation Flow.md",
     "System Requirement Specifications.md",
+    "Project Presentation Essential Moments.md",
+    "conflict-files-obsidian-git.md",
     "Tf does this extension work.md",
     "Untitled.base",
     "essential-space-obs/Tf does this extension work.md",
