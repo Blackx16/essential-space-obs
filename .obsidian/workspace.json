@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review.md",
+                "file": "Project Presentation Essential Moments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Review"
+              "title": "Project Presentation Essential Moments"
             }
           }
         ]
@@ -183,6 +183,7 @@
   "active": "2e46badae356f27c",
   "lastOpenFiles": [
     "System Requirement Specifications.md",
+    "Review.md",
     "Tf does this extension work.md",
     "imigiz/thumbnail (9).webp",
     "imigiz/Screenshot 2025-08-21 122823.png",
@@ -195,7 +196,6 @@
     "imigiz/Screenshot 2025-08-21 123831.png",
     "imigiz/Screenshot 2025-08-21 123958.png",
     "conflict-files-obsidian-git.md",
-    "Review.md",
     "essential-space-obs/Tf does this extension work.md",
     "essential-space-obs/System Requirement Specifications.md",
     "essential-space-obs/Project Presentation Essential Moments.md",
