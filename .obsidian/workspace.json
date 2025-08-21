@@ -11,14 +11,12 @@
             "id": "2e46badae356f27c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Project Presentation Essential Moments.md",
-                "mode": "source",
-                "source": false
+                "file": "thumbnail (10).webp"
               },
-              "icon": "lucide-file",
-              "title": "Project Presentation Essential Moments"
+              "icon": "lucide-image",
+              "title": "thumbnail (10)"
             }
           }
         ]
@@ -182,8 +180,8 @@
   },
   "active": "2e46badae356f27c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Project Presentation Essential Moments.md",
+    "conflict-files-obsidian-git.md",
     "thumbnail (10).webp",
     "Tf does this extension work.md",
     "System Requirement Specifications.md",
