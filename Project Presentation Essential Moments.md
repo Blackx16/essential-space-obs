@@ -2,6 +2,7 @@ Google Slide Link: https://docs.google.com/presentation/d/1dATYm1yrSfuOOhjsbY7Nc
 
 Google Docs Link: https://docs.google.com/document/d/186VdFKMxajLKKUQmc3-wJ307_sumhSK6hDMzF9q1pbk/edit?usp=sharing
 
+
 ### 1. Problem Statement
 
 In today's fast-paced digital world, mobile users rely heavily on screenshots to capture fleeting information—be it a meeting schedule, a purchase receipt, a recipe, or a spark of inspiration. However, this process is fundamentally broken:
