@@ -15,9 +15,9 @@
               "state": {
                 "file": "Plan.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 438.5465822501274,
+                  "y": 306.83949350076347,
+                  "zoom": -0.1172796286145846
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -184,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e293095ec44077c7",
+  "active": "9c215c32f045c97f",
   "lastOpenFiles": [
     "Project Presentation Essential Moments.md",
     "Plan.canvas",
