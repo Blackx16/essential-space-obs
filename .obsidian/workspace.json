@@ -11,14 +11,17 @@
             "id": "9c215c32f045c97f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Review.md",
-                "mode": "source",
-                "source": false
+                "file": "Plan.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Review"
+              "icon": "lucide-layout-dashboard",
+              "title": "Plan"
             }
           }
         ],
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Review.md",
+                "file": "Plan.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Review"
+              "title": "Backlinks for Plan"
             }
           },
           {
@@ -114,12 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review.md",
+                "file": "Plan.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Review"
+              "title": "Outgoing links from Plan"
             }
           },
           {
@@ -143,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Review.md",
+                "file": "Plan.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Review"
+              "title": "Outline of Plan"
             }
           },
           {
@@ -181,9 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c215c32f045c97f",
+  "active": "e293095ec44077c7",
   "lastOpenFiles": [
     "Project Presentation Essential Moments.md",
+    "Plan.canvas",
     "Review.md",
     "Tf does this extension work.md",
     "Untitled.base",

@@ -7,7 +7,7 @@
 
 #### Similar Stuff : Theerth 
 
-#### Use Cases. Activity flow and allat shi: Sam n Dhaval
+#### Use Cases. Activity flow and allat shi:  Sam n Dhaval
 
 #### Tech Stack & Modules : Chandra
 
