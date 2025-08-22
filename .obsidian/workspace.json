@@ -11,14 +11,13 @@
             "id": "2e46badae356f27c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Review.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Review"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -182,6 +181,9 @@
   },
   "active": "2e46badae356f27c",
   "lastOpenFiles": [
+    "Project Presentation Essential Moments.md",
+    "Untitled.base",
+    "Review.md",
     "imigiz/thumbnail (9).webp",
     "imigiz/essential space 6.png",
     "imigiz/essential space 0.png",
@@ -190,9 +192,7 @@
     "imigiz/essential space 4.png",
     "imigiz/essential space 5.png",
     "imigiz/thumbnail (10).webp",
-    "Project Presentation Essential Moments.md",
     "System Requirement Specifications.md",
-    "Review.md",
     "Tf does this extension work.md",
     "imigiz",
     "conflict-files-obsidian-git.md",
