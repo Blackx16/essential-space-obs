@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aeb6971591d5cda1",
+        "id": "820020cc87f00592",
         "type": "tabs",
         "children": [
           {
-            "id": "2e46badae356f27c",
+            "id": "9c215c32f045c97f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Presentation Essential Moments.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Project Presentation Essential Moments"
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -94,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -161,12 +155,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 546.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e46badae356f27c",
+  "active": "21221ad21ecb8bb6",
   "lastOpenFiles": [
-    "Untitled.base",
     "Project Presentation Essential Moments.md",
+    "Untitled.base",
     "Review.md",
     "imigiz/thumbnail (9).webp",
     "imigiz/essential space 6.png",
