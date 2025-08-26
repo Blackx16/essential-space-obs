@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05492edb4c1194ce",
+  "active": "9c215c32f045c97f",
   "lastOpenFiles": [
     "Project Presentation Essential Moments.md",
     "Plan.canvas",
