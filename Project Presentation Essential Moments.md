@@ -1,13 +1,13 @@
 Google Slide Link: https://docs.google.com/presentation/d/1dATYm1yrSfuOOhjsbY7NciGavPl2XIwblP4ayyKrLrg/edit?usp=sharing
 
+Google Docs Link: https://docs.google.com/document/d/186VdFKMxajLKKUQmc3-wJ307_sumhSK6hDMzF9q1pbk/edit?usp=sharing
+
+
 ### 1. Problem Statement
 
-In today's fast-paced digital world, mobile users rely heavily on screenshots to capture fleeting information—be it a meeting schedule, a purchase receipt, a recipe, or a spark of inspiration. However, this process is fundamentally broken:
+The Problem: Screenshots are Broken
 
-* **Information Silos:** Screenshots are dumped into a chaotic, unorganized default photo gallery, mixed with personal photos.
-* **Loss of Context:** The original thought or reason for capturing the screenshot is instantly lost. A picture of a flight itinerary is just an image without the context of "Book this for the family trip."
-* **Inactionable Data:** The valuable text and data within these images remain locked and unsearchable. Finding a specific screenshot from months ago is a frustrating manual effort.
-* **Privacy Concerns:** Existing solutions often rely on cloud uploads, creating privacy risks for sensitive information captured in screenshots.
+We all use screenshots to save important information, but this creates a major problem. Our phone galleries become a disorganized mess of images mixed with personal photos. The crucial context is lost the moment we take the shot, and the valuable information inside remains unsearchable and locked away. Finding anything is a nightmare, and cloud-based solutions raise serious privacy concerns.
 
 **Essential Moments** addresses the critical gap between capturing information and making it truly useful, organized, and actionable, all while respecting user privacy.
 
@@ -30,8 +30,13 @@ The primary objectives of the Essential Moments project are:
 | ----------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
 | **Mobile Framework**    | **React Native**        | High-performance, native-feel cross-platform development from a single JavaScript codebase.            |
 | **Native Bridge**       | **Capacitor JS**        | Provides robust access to native Android APIs, essential for our screenshot listener and overlay.      |
+<<<<<<< HEAD
 | **Android**             | **Android SDK**         |                                                                                                        |
 | **Local Database**      | **RxDB (NoSQL)**        | A fast, reactive, local-first database perfect for offline capabilities and future synchronization.    |
+=======
+| **Local Database**      | **RxDB (NoSQL)**        | A fast, reactive, local-first database perfect for offline capabilities and future synchronization.    |
+| **Android**             | **Android SDK**         |                                                                                                        |
+>>>>>>> origin/main
 | **Dev Environment**     | **Docker**              | Ensures a consistent, isolated, and reproducible development environment for all team members.         |
 | **Version Control**     | **Git (GitFlow Model)** | A structured branching strategy for efficient multi-developer collaboration and stable releases.       |
 | **On-Device AI**        | **Google ML Kit**       | Provides powerful, offline, on-device capabilities for OCR (Text Recognition) and Voice Transcription. |
