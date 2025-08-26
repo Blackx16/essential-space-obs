@@ -1,14 +1,14 @@
 
 
-What's our thing, Essential Space?
+### What's our thing, Essential Space?
 
-Similar Stuff
+### Similar Stuff 
 
-Use Cases. Activity flow and allat shi
+### Use Cases. Activity flow and allat shi
 
-Tech Stack
+### Tech Stack
 
-Modules
+### Modules
 
 
 

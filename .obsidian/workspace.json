@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "df522337d67f1fa4",
+    "id": "39496d9d74441798",
     "type": "split",
     "children": [
       {
-        "id": "aeb6971591d5cda1",
+        "id": "2670b9098a00142b",
         "type": "tabs",
         "children": [
           {
-            "id": "74ba9f653e9593d7",
+            "id": "210ca7b885a1437a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "Project Presentation Essential Moments"
             }
-          },
-          {
-            "id": "451943e8e0ea3f92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Review 1 Presentation Flow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Review 1 Presentation Flow"
-            }
           }
         ]
       }
@@ -41,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8fbbef16ba1df987",
+    "id": "0928115532cf90de",
     "type": "split",
     "children": [
       {
-        "id": "082ba64cfc96dba6",
+        "id": "0919415cb33313f3",
         "type": "tabs",
         "children": [
           {
-            "id": "e293095ec44077c7",
+            "id": "b5423f2ef1ae16a9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +48,7 @@
             }
           },
           {
-            "id": "b9d6603d814f9579",
+            "id": "2d2b16b724b5df45",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +65,7 @@
             }
           },
           {
-            "id": "90ef268eefaa66c6",
+            "id": "64568a68a7c73fb6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,18 +78,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 272.5
   },
   "right": {
-    "id": "a91aa24e1681b113",
+    "id": "69bc83c6c5a7c661",
     "type": "split",
     "children": [
       {
-        "id": "4be47bab0d5f5306",
+        "id": "1b8ec9f0ab2ae488",
         "type": "tabs",
         "children": [
           {
-            "id": "21221ad21ecb8bb6",
+            "id": "6d05fb6642a6e52f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -122,7 +108,7 @@
             }
           },
           {
-            "id": "b40d35c3307879ee",
+            "id": "9cf4152f19021e16",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -136,7 +122,7 @@
             }
           },
           {
-            "id": "7344cb2bd915b869",
+            "id": "17498a2cd0405e47",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,7 +137,7 @@
             }
           },
           {
-            "id": "2badf60ca8aa0c83",
+            "id": "e73c7b27eafb52a6",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -166,7 +152,7 @@
             }
           },
           {
-            "id": "05492edb4c1194ce",
+            "id": "2e0dd53f5f1598b1",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -184,31 +170,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-gitless-sync:Open sync conflicts view": false,
-      "github-gitless-sync:Sync with GitHub": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74ba9f653e9593d7",
+  "active": "210ca7b885a1437a",
   "lastOpenFiles": [
     "Review 1 Presentation Flow.md",
-    "System Requirement Specifications.md",
+    "Similar stuff",
     "Project Presentation Essential Moments.md",
+    "Untitled.md",
+    "Tf does this extension work.md",
+    "System Requirement Specifications.md",
     "essential-space-obs/Tf does this extension work.md",
     "essential-space-obs/System Requirement Specifications.md",
+    "essential-space-obs/Review 1 Presentation Flow.md",
     "essential-space-obs/Project Presentation Essential Moments.md",
     "essential-space-obs",
-    "Tf does this extension work.md",
-    "Untitled",
-    "Untitled 1.md",
-    "aloo/teri maaeh ki.md",
-    "aloo"
+    "Welcome.md"
   ]
 }

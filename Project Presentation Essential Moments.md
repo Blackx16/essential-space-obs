@@ -26,15 +26,16 @@ The primary objectives of the Essential Moments project are:
 
 ### 3. Tools and Techniques
 
-| Category              | Technology / Tool        | Justification                                                                                             |
-| --------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------- |
-| **Mobile Framework** | **React Native** | High-performance, native-feel cross-platform development from a single JavaScript codebase.               |
-| **Native Bridge** | **Capacitor JS** | Provides robust access to native Android APIs, essential for our screenshot listener and overlay.          |
-| **Local Database** | **RxDB (NoSQL)** | A fast, reactive, local-first database perfect for offline capabilities and future synchronization.       |
-| **Dev Environment** | **Docker** | Ensures a consistent, isolated, and reproducible development environment for all team members.            |
-| **Version Control** | **Git (GitFlow Model)** | A structured branching strategy for efficient multi-developer collaboration and stable releases.           |
-| **On-Device AI** | **Google ML Kit** | Provides powerful, offline, on-device capabilities for OCR (Text Recognition) and Voice Transcription.    |
-| **Cloud AI (Optional)**| **Gemini API** | Used for high-accuracy, user-initiated reprocessing of AI tasks and advanced visual search.               |
-| **API Integration** | **Google Calendar API** | Enables seamless creation of calendar events and reminders directly from captured Moments.                 |
+| Category                | Technology / Tool       | Justification                                                                                          |
+| ----------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Mobile Framework**    | **React Native**        | High-performance, native-feel cross-platform development from a single JavaScript codebase.            |
+| **Native Bridge**       | **Capacitor JS**        | Provides robust access to native Android APIs, essential for our screenshot listener and overlay.      |
+| **Android**             | **Android SDK**         |                                                                                                        |
+| **Local Database**      | **RxDB (NoSQL)**        | A fast, reactive, local-first database perfect for offline capabilities and future synchronization.    |
+| **Dev Environment**     | **Docker**              | Ensures a consistent, isolated, and reproducible development environment for all team members.         |
+| **Version Control**     | **Git (GitFlow Model)** | A structured branching strategy for efficient multi-developer collaboration and stable releases.       |
+| **On-Device AI**        | **Google ML Kit**       | Provides powerful, offline, on-device capabilities for OCR (Text Recognition) and Voice Transcription. |
+| **Cloud AI (Optional)** | **Gemini API**          | Used for high-accuracy, user-initiated reprocessing of AI tasks and advanced visual search.            |
+| **API Integration**     | **Google Calendar API** | Enables seamless creation of calendar events and reminders directly from captured Moments.             |
 
 ---
