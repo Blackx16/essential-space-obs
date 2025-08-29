@@ -30,8 +30,13 @@ The primary objectives of the Essential Moments project are:
 | ----------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
 | **Mobile Framework**    | **React Native**        | High-performance, native-feel cross-platform development from a single JavaScript codebase.            |
 | **Native Bridge**       | **Capacitor JS**        | Provides robust access to native Android APIs, essential for our screenshot listener and overlay.      |
+<<<<<<< HEAD
+| **Android**             | **Android SDK**         |                                                                                                        |
+| **Local Database**      | **RxDB (NoSQL)**        | A fast, reactive, local-first database perfect for offline capabilities and future synchronization.    |
+=======
 | **Local Database**      | **RxDB (NoSQL)**        | A fast, reactive, local-first database perfect for offline capabilities and future synchronization.    |
 | **Android**             | **Android SDK**         |                                                                                                        |
+>>>>>>> origin/main
 | **Dev Environment**     | **Docker**              | Ensures a consistent, isolated, and reproducible development environment for all team members.         |
 | **Version Control**     | **Git (GitFlow Model)** | A structured branching strategy for efficient multi-developer collaboration and stable releases.       |
 | **On-Device AI**        | **Google ML Kit**       | Provides powerful, offline, on-device capabilities for OCR (Text Recognition) and Voice Transcription. |
