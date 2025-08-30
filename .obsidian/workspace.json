@@ -23,21 +23,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Plan"
             }
-          },
-          {
-            "id": "3fc843fdbf368904",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -197,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fc843fdbf368904",
+  "active": "9c215c32f045c97f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Plan.canvas",
+    "conflict-files-obsidian-git.md",
     "Review 1 Presentation Flow.md",
     "Project Presentation Essential Moments.md",
     "Review.md",
